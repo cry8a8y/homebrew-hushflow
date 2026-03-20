@@ -1,8 +1,8 @@
 class Hushflow < Formula
   desc "Turn AI thinking time into mindful breathing"
   homepage "https://github.com/cry8a8y/HushFlow"
-  url "https://github.com/cry8a8y/HushFlow/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "9b1c124807100e2bf40dd6d053d6fe99d8ea7fc75ede8e4e849cb0def154ea01"
+  url "https://github.com/cry8a8y/HushFlow/archive/refs/tags/v2.1.0.tar.gz"
+  sha256 "3178a1157f14a7a151013af6200aa89dbca5c42ea4348d0e2f1e813d9d151376"
   license "MIT"
 
   depends_on "jq"
